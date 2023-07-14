@@ -1,7 +1,0 @@
-- hosts: all
-  tasks:
-  - import_role:
-      name: preflight
-    tags:
-      - pre-install
-
